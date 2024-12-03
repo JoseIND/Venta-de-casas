@@ -1,0 +1,8 @@
+header{background-color: aqua; font-size: 60px;}
+.h1 {background-color: darkkhaki; color: blue;}
+img{width: 300px;}
+h2 {background-color: firebrick;width: 150px;}
+h2:hover {font-size:50px; width: 100px;}
+p{font-size: 30px;}
+.inforativo:hover {color: blue;background-color: aqua;} 
+img:hover {width: 400px;}
